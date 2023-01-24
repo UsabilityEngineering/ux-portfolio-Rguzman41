@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+My name is Ricardo Guzman. My major is Computer Science and my goals is to expand my knowledge and gain opportunities.  
 
 ## UX Team Project
 
