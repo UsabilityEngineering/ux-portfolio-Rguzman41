@@ -11,8 +11,10 @@ On the right side of the console is the power button, which is actually a sensor
 
 One area for improvement could be in making the power button more **error-tolerant** by providing visual and/or auditory feedback when it is pressed incorrectly or not held down long enough, sort of like the red ring of death, which was a hardware failure that affected a huge number of Xbox 360's when the console launched.
 
+![image](https://i.ytimg.com/vi/3dqMeb0NdmQ/maxresdefault.jpg)
+
 For the homepage, I was able to quickly find and access my game library, as well as browse the online store for new games. I also appreciated the ability to customize my homepage by pinning my favorite games and apps for easy access, which Microsoft added months before I got the Xbox One.
 
-I found the Xbox One to be **efficient** in its ability to quickly load games and navigating the menus in the home page, the place you got to where you start up the console is a good example of this. The interface was **learnable**, as it only took me a few minutes to understand how to navigate in between the tabs.
+I found the Xbox One to be **efficient** in its ability to quickly load games and navigating the menus in the home page, the place you first go to when you start up the console is a good example of this. The interface was **learnable**, as it only took me a few minutes to understand how to navigate in between the tabs.
 
 The user-interface for the Xbox One went through many changes as it looked for ways to suit users needs. 
