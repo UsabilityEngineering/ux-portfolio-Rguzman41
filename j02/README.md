@@ -2,7 +2,7 @@
 
 ## Ricardo Guzman - 11 May 2023
 
-In 2015, after pleading with my dad, I finally got the Xbox One. As a hardcore gamer, I was all about that next-level immersion and excitement. Since I had been using the Xbox 360 before that, it only made sense to stick with the Xbox console. The moment I powered on the console, my senses were bombarded with a user interface that initially overwhelmed me. To give you an idea, this is the Xbox One and its interface as it looked back then.
+In 2015, after pleading with my dad, I finally got the Xbox One. As a hardcore gamer, I was all about that next-level immersion and excitement. Since I had been using the Xbox 360 before that, it only made sense to stick with the Xbox console. The moment I powered on the console, my senses were bombarded with a user interface that initially overwhelmed me. To give you an idea, this is the Xbox One and its interface as it looked when I got it. 
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRPIP1cMQCAdewy0akNZoEnZxggQArn-Amg&usqp=CAU)
 ![image](https://www.justpushstart.com/wp-content/uploads/2015/09/Xbox-One-November-Dashboard.jpg)
