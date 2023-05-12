@@ -8,5 +8,5 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with the Xbox One](j01/)
+[Read about my experience with the Xbox One](j01/)_
 [Read about my experience with the Xbox One(edited)](j02/)
