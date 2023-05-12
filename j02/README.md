@@ -1,6 +1,6 @@
 # Having fun with Xbox
 
-## Ricardo Guzman - 10 March 2023
+## Ricardo Guzman - 11 May 2023
 
 In 2015, after relentlessly pleading with my dad, I finally laid my hands on the coveted Xbox One. As an ardent gamer, my heart was set on achieving the pinnacle of immersive and exhilarating gaming. Given my previous loyalty to the Xbox 360, the predecessor to the One, it seemed only logical to remain faithful to the Xbox brand. The moment I powered on the console, my senses were bombarded with a user interface that initially overwhelmed me with its astonishing complexity. To provide a visual representation, envision the Xbox One and its interface as it appeared at that time.
 
